@@ -43,7 +43,7 @@ The goal of this project is to predict daily cinema audience counts (`audience_c
 
 The notebook preview is currently not opening on GitHub due to persistent `nbformat/nbconvert` rendering issues.
 
-**Google Colab Notebook:** (https://colab.research.google.com/drive/1voPeXKY1Bs20k0JyaCmXpDcXhNqfUTYO?usp=sharing)
+[Google Colab Notebook](https://colab.research.google.com/drive/1voPeXKY1Bs20k0JyaCmXpDcXhNqfUTYO?usp=sharing)
 
 The Colab notebook contains the complete implementation and experiments.
 
